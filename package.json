@@ -1,0 +1,25 @@
+{
+  "name": "mqtt-sky",
+  "version": "0.1.0",
+  "description": "Node.js module for controlling and monitoring Sky+ HD set top boxes through the MQTT protocol",
+  "main": "mqtt_sky.js",
+  "dependencies": {
+    "mqtt": "~0.3.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dalhundal/sky-plus-hd.git"
+  },
+  "keywords": [
+    "SkyHD",
+    "SkyPlus",
+    "Sky",
+    "SkyPlusHD",
+    "MQTT"
+  ],
+  "author": "Jonathan Leach",
+  "license": "BSD"
+}
